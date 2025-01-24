@@ -1,3 +1,6 @@
+# <p align='center'> Spicetify </p>
+
+----
 Instller spotify depuis internet avec ce lien (ne marche pas avec le spotify du microsoft store): [ici](https://www.spotify.com/fr/download/windows/)
 
 Une fois installé et connecté a votre compte spotify.
