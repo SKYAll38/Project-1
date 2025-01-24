@@ -5,7 +5,9 @@ Ouvrir Windows PowerShell dans la barre de recherche windows (si la commande ne 
 Entrer les commandes suivante puis acceter avec [Y] (yes) ou appuyer sur entrer.
 1ere commande :
 
+```bash
 iwr -useb https://raw.githubusercontent.com/spicetify/cli/main/install.ps1 | iex
+```
 
 2nde commande :
 iwr -useb https://raw.githubusercontent.com/spicetify/marketplace/main/resources/install.ps1 | iex 
