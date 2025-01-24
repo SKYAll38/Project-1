@@ -6,6 +6,7 @@ Instller spotify depuis internet avec ce lien (ne marche pas avec le spotify du 
 Une fois installé et connecté a votre compte spotify.
 Ouvrir Windows PowerShell dans la barre de recherche windows (si la commande ne marche pas: executer en tant qu'administrateur).
 Entrer les commandes suivante puis acceter avec [Y] (yes) ou appuyer sur entrer.
+
 **1ere commande :**
 
 ```bash
